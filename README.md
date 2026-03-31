@@ -35,7 +35,7 @@ FastLogistics/
 └── Program.cs                   # Interface com usuário
 ```
 
-## ▶️ Como Executar
+## Como Executar
 
 ```bash
 # Clonar o repositório
