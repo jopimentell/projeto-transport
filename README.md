@@ -1,4 +1,3 @@
-```markdown
 # FastLogistics - Sistema de Logística
 
 Sistema simples de logística desenvolvido em C# para demonstrar a aplicação dos princípios SOLID e do padrão Factory Method.
