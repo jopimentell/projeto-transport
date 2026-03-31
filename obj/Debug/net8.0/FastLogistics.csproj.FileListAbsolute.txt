@@ -1,0 +1,14 @@
+G:\03 Recursos\Documentos\projeto-transport\bin\Debug\net8.0\FastLogistics.exe
+G:\03 Recursos\Documentos\projeto-transport\bin\Debug\net8.0\FastLogistics.deps.json
+G:\03 Recursos\Documentos\projeto-transport\bin\Debug\net8.0\FastLogistics.runtimeconfig.json
+G:\03 Recursos\Documentos\projeto-transport\bin\Debug\net8.0\FastLogistics.dll
+G:\03 Recursos\Documentos\projeto-transport\bin\Debug\net8.0\FastLogistics.pdb
+G:\03 Recursos\Documentos\projeto-transport\obj\Debug\net8.0\FastLogistics.GeneratedMSBuildEditorConfig.editorconfig
+G:\03 Recursos\Documentos\projeto-transport\obj\Debug\net8.0\FastLogistics.AssemblyInfoInputs.cache
+G:\03 Recursos\Documentos\projeto-transport\obj\Debug\net8.0\FastLogistics.AssemblyInfo.cs
+G:\03 Recursos\Documentos\projeto-transport\obj\Debug\net8.0\FastLogistics.csproj.CoreCompileInputs.cache
+G:\03 Recursos\Documentos\projeto-transport\obj\Debug\net8.0\FastLogistics.dll
+G:\03 Recursos\Documentos\projeto-transport\obj\Debug\net8.0\refint\FastLogistics.dll
+G:\03 Recursos\Documentos\projeto-transport\obj\Debug\net8.0\FastLogistics.pdb
+G:\03 Recursos\Documentos\projeto-transport\obj\Debug\net8.0\FastLogistics.genruntimeconfig.cache
+G:\03 Recursos\Documentos\projeto-transport\obj\Debug\net8.0\ref\FastLogistics.dll
